@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Ditthalome 👋  
 
-<!--
-**ditthalome/ditthalome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner in tech, currently studying computer support and building skills in cloud security, Python, and Linux.  
 
-Here are some ideas to get you started:
+- 🌱 I’m learning: AWS, Python, Linux, and JIRA.  
+- 🎯 Career goals: Becoming a cybersecurity specialist.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/ditthalome)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Tools  
+- **Languages**: Python, Bash  
+- **Cloud**: AWS  
+- **OS**: Linux, Windows  
+- **Other**: Git, PowerShell  
+
+---
+
+### 🗂 Projects  
+- [Linux Command Scripts](#): A collection of beginner-friendly Linux scripts.  
+- [AWS Study Notes](#): Notes and examples from my AWS Cloud Practitioner journey.  
+
+---
+
+### 🚀 Currently Learning  
+- Linux: Exploring system commands and shell scripting  
+- AWS Cloud Practitioner: Preparing for certification  
+- Python: Basics and automation  
+- JIRA: Learning service management tools  
+
+---
+
+### 📊 GitHub Stats  
+![Ditthalome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ditthalome&show_icons=true&theme=radical)
+
+---
+
+✨ *“Learning is the only thing the mind never exhausts, never fears, and never regrets.”*  
